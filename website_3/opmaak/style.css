@@ -6,6 +6,8 @@ footer, header {
 div#inhoud {
 	margin: auto;
 	width: 1000px;
+	background-color: mediumpurple;
+	padding:  10px;
 	}
 
 div#land {
@@ -36,3 +38,14 @@ img.vlag {
 	border-style: solid;
 	border-color: black; 
 	}
+
+img.foto{
+	width: 450px;
+	height:300px;
+}
+
+body {
+	background-image: url("../afbeeldingen/hoofd.jpg");
+	background-attachment: fixed;
+	font-family: chant;
+}
